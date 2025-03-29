@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Amazing views",
+        "img": "01.svg"
+    },
+    {
+        "title": "Lakefront",
+        "img": "02.svg"
+    },
+    {
+        "title": "Caves",
+        "img": "03.svg"
+    },
+    {
+        "title": "OMG!",
+        "img": "04.svg"
+    },
+    {
+        "title": "Earth homes",
+        "img": "05.svg"
+    },
+    {
+        "title": "Treehouses",
+        "img": "06.svg"
+    },
+    {
+        "title": "Mansions",
+        "img": "07.svg" 
+    },
+    {
+        "title": "Cabins",
+        "img": "08.svg"
+    },
+    {
+        "title": "Amazing pools",
+        "img": "09.svg"
+    },
+    {
+        "title": "Islands",
+        "img": "10.svg"
+    },
+    {   
+        "title": "Beachfront",
+        "img": "11.svg"
+    },
+    {
+        "title": "Trending",
+        "img": "12.svg"
+    }
+]

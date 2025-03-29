@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "img": "01.jpg",
+        "title": "Knoxville, Tennessee",
+        "rating": 5.0,
+        "views": "Mountain and lake views",
+        "date": "Apr 16 – 21",
+        "price": 388,
+        "priceCurrency": "$",
+        "priceText": "night"
+    },
+    {
+        "id": 2,
+        "img": "02.jpg",
+        "title": "Sevierville, Tennessee",
+        "rating": 4.8,
+        "views": "Mountain views",
+        "date": "Apr 16 – 21",
+        "price": 343,
+        "priceCurrency": "$",
+        "priceText": "night"
+    },
+    {
+        "id": 3,
+        "img": "03.jpg",
+        "title": "Branson, Missouri",
+        "rating": 5.0,
+        "views": "Mountain views",
+        "date": "Apr 30 – May 5",
+        "price": 388,
+        "priceCurrency": "$",
+        "priceText": "night"
+    }
+]

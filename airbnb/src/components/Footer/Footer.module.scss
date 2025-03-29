@@ -1,0 +1,33 @@
+.footer {
+    margin-top: 50px;
+    position: relative;
+}
+.footer a,
+.footerDolar {
+    color: #222;
+    font-weight: 600;
+}
+.footer::before {
+    position: absolute;
+    content: '';
+    width: 100%;
+    height: 1px;
+    background-color: #E5E5E5;
+}
+
+.footerWrapper {
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footerList{
+    display: flex;
+    gap: 20px;
+}
+
+.footerItem {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}

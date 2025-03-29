@@ -1,0 +1,23 @@
+#root {
+    max-width: 1440px;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    margin: 0 auto;
+    font-size: 14px;
+    padding: 0 20px;
+
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.logo {
+    transition: all 0.3s ease;
+}
+
+.logo:hover {
+    scale: 1.05;
+    transition: all 0.3s ease;
+}

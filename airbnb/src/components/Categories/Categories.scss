@@ -1,0 +1,13 @@
+.categories__row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 50px;
+}
+
+.categories__list {
+    display: flex;
+    gap: 35px;
+    align-items: center;
+    overflow-x: auto;
+}
